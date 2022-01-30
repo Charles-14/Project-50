@@ -1,0 +1,42 @@
+.menu {
+  display: flex;
+  justify-content: space-around;
+  background-color: orange;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: white;
+}
+body {
+  background-color: rgb(241, 236, 236);
+}
+
+h2{
+  text-align: center;
+}
+
+.grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  font-family: sans-serif
+ 
+}
+
+.grid img {
+  display: flex;
+  justify-content: space-between;
+  border: 21px solid white;
+  border-radius: 40px;
+}
+
+.languages {
+  border-radius: 1px;
+  background-color: rgb(255, 255, 255);
+  margin: 5px;
+
+  width: 310px;
+  font-family: sans-serif;
+  font-weight: bold;
+  
+}
